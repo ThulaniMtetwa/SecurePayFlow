@@ -4,6 +4,10 @@ A companion iOS demo app for the Medium article *"Express Transit's Trust Model:
 
 SecurePayFlow illustrates the three security layers that Apple's Express Transit vulnerability bypasses, giving iOS and fintech developers a hands-on understanding of each layer from the SDK side.
 
+## Demo
+
+[![SecurePayFlow Demo](https://img.youtube.com/vi/EPGygEG_dk4/maxresdefault.jpg)](https://youtube.com/shorts/EPGygEG_dk4)
+
 ## Modules
 
 ### 1. NFC Reader (Requires Paid Developer Account)
